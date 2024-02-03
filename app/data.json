@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "barcode": 8999999706081,
+      "name": "PEPSODENT 75G",
+      "price": 15000
+    },
+    {
+      "id": 2,
+      "barcode": 8991102280211,
+      "name": "WAFFLE MOCHA LATTE 25G",
+      "price": 5000
+    },
+    {
+      "id": 3,
+      "barcode": 8996001354124,
+      "name": "BENG BENG 25G",
+      "price": 2000
+    }
+  ]
+}
